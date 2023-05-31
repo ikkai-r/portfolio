@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'crewniversemedium';
+    src: url('../fonts/crewniverse_font-webfont.woff2') format('woff2'),
+         url('../fonts/crewniverse_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #c6e0d9;
+    font-family: 'Archivo', sans-serif;
+}
+
+.title-h {
+    font-family: crewniversemedium, sans-serif;
+    color: #364c5d;
+}
+
+.header-btns:hover {
+    color: #364c5d;
+}
+
+.navbar {
+    background-color:#abc4c7;
+}
